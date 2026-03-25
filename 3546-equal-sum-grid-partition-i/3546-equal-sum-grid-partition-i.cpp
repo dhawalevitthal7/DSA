@@ -23,21 +23,25 @@ public:
             ver.push_back(versum);
         }
         bool ans = true;
-        // int i=0,j=0;
-        // while(i<n || j<m){
-        //     if(hor[i]==(hor[n-1]-hor[i])) return true;
-        //     if(ver[j]==(ver[m-1]-ver[j])) return true;
-        //     i++;
-        //     j++;
-        // }
-        for(int i=0;i<n;i++){
-            if(hor[i]==(hor[n-1]-hor[i])){
-                return true;
+        int i=0,j=0;
+        while(i<n || j<m){
+            if(i<n){
+                if(hor[i]==(hor[n-1]-hor[i])) return true;
             }
+            if(j<m){
+                if(ver[j]==(ver[m-1]-ver[j])) return true;
+            }
+            i++;
+            j++;
         }
-        for(int i=0;i<m;i++){
-            if(ver[i]==(ver[m-1]-ver[i])) return true;
-        }
+        // for(int i=0;i<n;i++){
+        //     if(hor[i]==(hor[n-1]-hor[i])){
+        //         return true;
+        //     }
+        // }
+        // for(int i=0;i<m;i++){
+        //     if(ver[i]==(ver[m-1]-ver[i])) return true;
+        // }
         return false;
     }
 };
