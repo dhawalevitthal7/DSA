@@ -89,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/dhawalevitthal7/DSA/tree/master/2751-robot-collisions) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/dhawalevitthal7/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
