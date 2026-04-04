@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/dhawalevitthal7/DSA/tree/master/0056-merge-intervals) |
+| [0162-find-peak-element](https://github.com/dhawalevitthal7/DSA/tree/master/0162-find-peak-element) |
 | [2751-robot-collisions](https://github.com/dhawalevitthal7/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dhawalevitthal7/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dhawalevitthal7/DSA/tree/master/3546-equal-sum-grid-partition-i) |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dhawalevitthal7/DSA/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/dhawalevitthal7/DSA/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
