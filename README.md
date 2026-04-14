@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dhawalevitthal7/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dhawalevitthal7/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dhawalevitthal7/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/dhawalevitthal7/DSA/tree/master/0162-find-peak-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dhawalevitthal7/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2751-robot-collisions](https://github.com/dhawalevitthal7/DSA/tree/master/2751-robot-collisions) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/dhawalevitthal7/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dhawalevitthal7/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhawalevitthal7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2751-robot-collisions](https://github.com/dhawalevitthal7/DSA/tree/master/2751-robot-collisions) |
 ## Matrix
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/dhawalevitthal7/DSA/tree/master/0162-find-peak-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
