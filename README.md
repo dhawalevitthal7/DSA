@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/dhawalevitthal7/DSA/tree/master/0118-pascals-triangle) |
 | [0162-find-peak-element](https://github.com/dhawalevitthal7/DSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dhawalevitthal7/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dhawalevitthal7/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dhawalevitthal7/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dhawalevitthal7/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dhawalevitthal7/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Math
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/dhawalevitthal7/DSA/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhawalevitthal7/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/dhawalevitthal7/DSA/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhawalevitthal7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
