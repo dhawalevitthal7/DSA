@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/dhawalevitthal7/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/dhawalevitthal7/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dhawalevitthal7/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/dhawalevitthal7/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dhawalevitthal7/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dhawalevitthal7/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/dhawalevitthal7/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/dhawalevitthal7/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dhawalevitthal7/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhawalevitthal7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2751-robot-collisions](https://github.com/dhawalevitthal7/DSA/tree/master/2751-robot-collisions) |
 ## Matrix
@@ -168,4 +170,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhawalevitthal7/DSA/tree/master/0011-container-with-most-water) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dhawalevitthal7/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
