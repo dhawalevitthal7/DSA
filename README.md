@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhawalevitthal7/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/dhawalevitthal7/DSA/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/dhawalevitthal7/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dhawalevitthal7/DSA/tree/master/0049-group-anagrams) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/dhawalevitthal7/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/dhawalevitthal7/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
 ## Sliding Window
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhawalevitthal7/DSA/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/dhawalevitthal7/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
