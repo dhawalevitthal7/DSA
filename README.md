@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/dhawalevitthal7/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dhawalevitthal7/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/dhawalevitthal7/DSA/tree/master/0152-maximum-product-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dhawalevitthal7/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/dhawalevitthal7/DSA/tree/master/0118-pascals-triangle) |
+| [0152-maximum-product-subarray](https://github.com/dhawalevitthal7/DSA/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/dhawalevitthal7/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/dhawalevitthal7/DSA/tree/master/0560-subarray-sum-equals-k) |
