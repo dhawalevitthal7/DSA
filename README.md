@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dhawalevitthal7/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/dhawalevitthal7/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dhawalevitthal7/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhawalevitthal7/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dhawalevitthal7/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/dhawalevitthal7/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dhawalevitthal7/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -149,12 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/dhawalevitthal7/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhawalevitthal7/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhawalevitthal7/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/dhawalevitthal7/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhawalevitthal7/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sliding Window
 |  |
 | ------- |
