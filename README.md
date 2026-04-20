@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhawalevitthal7/DSA/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/dhawalevitthal7/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhawalevitthal7/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dhawalevitthal7/DSA/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/dhawalevitthal7/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhawalevitthal7/DSA/tree/master/0070-climbing-stairs) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dhawalevitthal7/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Simulation
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhawalevitthal7/DSA/tree/master/0011-container-with-most-water) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dhawalevitthal7/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/dhawalevitthal7/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
