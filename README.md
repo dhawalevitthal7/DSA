@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/dhawalevitthal7/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/dhawalevitthal7/DSA/tree/master/0198-house-robber) |
+| [0746-min-cost-climbing-stairs](https://github.com/dhawalevitthal7/DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dhawalevitthal7/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0560-subarray-sum-equals-k](https://github.com/dhawalevitthal7/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/dhawalevitthal7/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dhawalevitthal7/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhawalevitthal7/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/dhawalevitthal7/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
