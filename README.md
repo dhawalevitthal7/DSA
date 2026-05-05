@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhawalevitthal7/DSA/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/dhawalevitthal7/DSA/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/dhawalevitthal7/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhawalevitthal7/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sliding Window
@@ -184,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dhawalevitthal7/DSA/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/dhawalevitthal7/DSA/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
