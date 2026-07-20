@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/dhawalevitthal7/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/dhawalevitthal7/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dhawalevitthal7/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3467-transform-array-by-parity](https://github.com/dhawalevitthal7/DSA/tree/master/3467-transform-array-by-parity) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dhawalevitthal7/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Sorting
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhawalevitthal7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2418-sort-the-people](https://github.com/dhawalevitthal7/DSA/tree/master/2418-sort-the-people) |
 | [2751-robot-collisions](https://github.com/dhawalevitthal7/DSA/tree/master/2751-robot-collisions) |
+| [3467-transform-array-by-parity](https://github.com/dhawalevitthal7/DSA/tree/master/3467-transform-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
@@ -234,4 +236,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/dhawalevitthal7/DSA/tree/master/0912-sort-an-array) |
+| [3467-transform-array-by-parity](https://github.com/dhawalevitthal7/DSA/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
