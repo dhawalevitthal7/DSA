@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/dhawalevitthal7/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhawalevitthal7/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/dhawalevitthal7/DSA/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dhawalevitthal7/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0912-sort-an-array](https://github.com/dhawalevitthal7/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhawalevitthal7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhawalevitthal7/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/dhawalevitthal7/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dhawalevitthal7/DSA/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/dhawalevitthal7/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhawalevitthal7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0657-robot-return-to-origin](https://github.com/dhawalevitthal7/DSA/tree/master/0657-robot-return-to-origin) |
 | [2418-sort-the-people](https://github.com/dhawalevitthal7/DSA/tree/master/2418-sort-the-people) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dhawalevitthal7/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dhawalevitthal7/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/dhawalevitthal7/DSA/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/dhawalevitthal7/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/dhawalevitthal7/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/dhawalevitthal7/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/dhawalevitthal7/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
