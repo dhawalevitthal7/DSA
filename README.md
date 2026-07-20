@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dhawalevitthal7/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dhawalevitthal7/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/dhawalevitthal7/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/dhawalevitthal7/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/dhawalevitthal7/DSA/tree/master/0118-pascals-triangle) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/dhawalevitthal7/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dhawalevitthal7/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dhawalevitthal7/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/dhawalevitthal7/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dhawalevitthal7/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/dhawalevitthal7/DSA/tree/master/0088-merge-sorted-array) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/dhawalevitthal7/DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/dhawalevitthal7/DSA/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/dhawalevitthal7/DSA/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/dhawalevitthal7/DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Combinatorics
