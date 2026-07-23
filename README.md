@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/dhawalevitthal7/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/dhawalevitthal7/DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/dhawalevitthal7/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/dhawalevitthal7/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/dhawalevitthal7/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dhawalevitthal7/DSA/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/dhawalevitthal7/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/dhawalevitthal7/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/dhawalevitthal7/DSA/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/dhawalevitthal7/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/dhawalevitthal7/DSA/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/dhawalevitthal7/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
