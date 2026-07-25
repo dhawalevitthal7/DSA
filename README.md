@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/dhawalevitthal7/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/dhawalevitthal7/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/dhawalevitthal7/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0931-minimum-falling-path-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/dhawalevitthal7/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/dhawalevitthal7/DSA/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/dhawalevitthal7/DSA/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/dhawalevitthal7/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/dhawalevitthal7/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/dhawalevitthal7/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dhawalevitthal7/DSA/tree/master/0036-valid-sudoku) |
+| [0931-minimum-falling-path-sum](https://github.com/dhawalevitthal7/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/dhawalevitthal7/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3546-equal-sum-grid-partition-i](https://github.com/dhawalevitthal7/DSA/tree/master/3546-equal-sum-grid-partition-i) |
 ## Enumeration
